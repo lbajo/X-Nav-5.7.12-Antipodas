@@ -1,3 +1,3 @@
 Ejercicio 5.7.12: Las antípodas
 
-<a href="lbajo.github.io/X-Nav-5.7.12-Antipodas">Enlace al ejercicio</a>
+[Try me](https://lbajo.github.io/X-Nav-5.7.12-Antipodas)
